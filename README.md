@@ -4,7 +4,7 @@
 - [Features](#features-) 🌟
 - [Screenshots](#screenshots-) 📸
 - [Packages Used](#packages-used-) 📚
-- [Author](#author) 👩‍💻
+- [Authors](#author) 👩‍💻
 
 ---
 
@@ -66,7 +66,7 @@ These packages are crucial for enabling various functionalities and enhancing th
 
 <!-- Author Section -->
 
-## Author 👩‍💻
+## Authors 👩‍💻👩‍💻
 
 <img src="images/author.png" alt="Sirine & Mariem" width="300" height="300">
 
