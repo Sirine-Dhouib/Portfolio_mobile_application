@@ -1,7 +1,6 @@
 ## Table of Contents 🌟
 
 - [Introduction](#introduction-) 🏛️
-- [Demo](#demo-) 🎬
 - [Features](#features-) 🌟
 - [Screenshots](#screenshots-) 📸
 - [Packages Used](#packages-used-) 📚
@@ -16,19 +15,6 @@
 Welcome to our Portfolio Showcase, a vibrant platform designed to highlight our educational background, professional experiences, skills, services, projects, and contact information. This showcase, powered by Flutter, embodies the modern art of application development, blending functionality with aesthetics to create a seamless user experience.
 
 Whether you're exploring our projects, interested in our services, or simply browsing, we're thrilled to share our journey with you.
-
----
-
-<!-- Demo Section -->
-
-## Demo 🎬
-
-<video controls autoplay loop>
-  <source src="images/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 
 ---
 
