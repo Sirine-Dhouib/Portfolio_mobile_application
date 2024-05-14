@@ -4,7 +4,7 @@
 - [Features](#features-) 🌟
 - [Screenshots](#screenshots-) 📸
 - [Packages Used](#packages-used-) 📚
-- [Authors](#author) 👩‍💻
+- [Authors](#authors) 👩‍💻
 
 ---
 
