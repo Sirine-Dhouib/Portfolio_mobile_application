@@ -23,7 +23,11 @@ Whether you're exploring our projects, interested in our services, or simply bro
 
 ## Demo 🎬
 
-<source src="images/demo.mp4" type="video/mp4">
+<video controls autoplay loop>
+  <source src="images/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ---
