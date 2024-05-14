@@ -23,10 +23,7 @@ Whether you're exploring our projects, interested in our services, or simply bro
 
 ## Demo 🎬
 
-<video width="320" height="240" controls>
-  <source src="images/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Video](images/demo.mp4)
 
 ---
 
@@ -80,7 +77,7 @@ These packages are crucial for enabling various functionalities and enhancing th
 
 ## Author 👩‍💻
 
-![Sirine & Mariem](images/author.png)
+<img src="images/author.png" alt="Sirine & Mariem" width="300" height="300">
 
 **About Us:**
 - **Names:** Sirine Dhouib & Mariem Sfaxi
