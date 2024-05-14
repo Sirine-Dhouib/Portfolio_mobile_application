@@ -23,7 +23,10 @@ Whether you're exploring our projects, interested in our services, or simply bro
 
 ## Demo 🎬
 
-![Demo Video](images/demo.mp4)
+<video width="320" height="240" controls>
+  <source src="images/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -38,16 +41,18 @@ Whether you're exploring our projects, interested in our services, or simply bro
 ---
 
 <!-- Screenshots Section -->
-
 ## Screenshots 📸
 
-![App Screenshot 1](images/1.png)
-![App Screenshot 2](images/2.png)
-![App Screenshot 3](images/3.png)
-![App Screenshot 4](images/4.png)
-![App Screenshot 5](images/5.png)
-![App Screenshot 6](images/6.png)
-![App Screenshot 7](images/7.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="images/1.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/2.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/3.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/4.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/5.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/6.png" style="width: 200px; height: auto; margin: 10px;">
+  <img src="images/7.png" style="width: 200px; height: auto; margin: 10px;">
+</div>
+
 
 ---
 
