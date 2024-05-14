@@ -23,10 +23,8 @@ Whether you're exploring our projects, interested in our services, or simply bro
 
 ## Demo 🎬
 
-<video controls width="100%">
-  <source src="images/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<source src="images/demo.mp4" type="video/mp4">
+
 
 ---
 
